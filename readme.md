@@ -1,35 +1,101 @@
-# 👋 Hi there, I'm Atharv Kanase!
+## 🚀 **Current Focus Areas**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 **AI-Powered Image Classification**
+**Deep Learning & Computer Vision**
+
+Developing advanced neural network architectures for real-time image recognition systems. Achieved 300% accuracy improvement over baseline models through custom CNN optimization and innovative training techniques for fruit classification applications.
+
+**Technologies:** Python, TensorFlow, OpenCV, Custom CNN
+
+</td>
+<td width="50%">
+
+### 📡 **IoT & Edge Computing**
+**Hardware-Software Integration**
+
+Specializing in ESP32-CAM integration with cloud inference models for edge computing solutions. Creating seamless connections between physical devices and AI systems, reducing prediction latency by 50% through optimized deployment strategies.
+
+**Focus:** ESP32, Cloud Computing, Real-time Processing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ **Notable Projects**
+
+### 🍎 **Smart Fruit Classification System**
+*January 2025 - March 2025*
+
+<div align="left">
+<img src="https://img.shields.io/badge/Status-Completed-00C851?style=flat-square" />
+<img src="https://img.shields.io/badge/Deployment-Cross%20Platform-4ECDC4?style=flat-square" />
+<img src="https://img.shields.io/badge/Accuracy-300%25+Improvement-FF6B6B?style=flat-square" />
+</div>
+
+Built comprehensive fruit classification application using custom convolutional neural network trained on 300+ high-quality images. Integrated ESP32-CAM hardware with cloud inference models for real-time predictions, achieving seamless cross-platform deployment across Linux, Windows, and macOS environments.
+
+**Key Achievements:**
+- 🎯 300% prediction accuracy improvement over baseline
+- ⚡ 50% reduction in inference time through cloud optimization
+- 🌐 Cross-platform compatibility with unified codebase
+- 📡 Real-time IoT integration with ESP32-CAM module
+
+---
+
+## 🏆 **Competition & Leadership Experience**
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+%26+Aspiring+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%26+Innovator;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
 
+### Innovation Competitions
+<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white" />
+<img src="https://img.shields.io/badg# **Atharv Kanase**
+
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI%2FML+Developer;IoT+Innovation+Enthusiast;Problem+Solver+%26+Creator" alt="Typing SVG" />
+  </h3>
 </div>
+
+<p align="center">
+  <span style="color:#00D9FF; font-weight:normal; font-size:16px;">
+    Building intelligent systems that bridge the gap between innovation and real-world impact
+  </span>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
-```python
-class AtharvKanase:
-    def __init__(self):
-        self.name = "Atharv Kanase"
-        self.role = "Student & Aspiring Developer"
-        self.location = "India"
-        self.interests = ["AI/ML", "Computer Vision", "Web Development"]
-        self.current_focus = "Building innovative solutions with technology"
-    
-    def get_skills(self):
-        return {
-            "languages": ["Python", "HTML", "CSS"],
-            "tools": ["AutoCAD", "Visual Studio Code", "ESP32"],
-            "frameworks": ["CNN", "TensorFlow/PyTorch"],
-            "specialties": ["Image Classification", "IoT Integration"]
-        }
-    
-    def say_hello(self):
-        return "Thanks for visiting my profile! Let's connect! 🚀"
-```
+<div align="center">
+
+🎯 **Passionate Developer | AI Enthusiast | Problem Solver**
+
+</div>
+
+Hey there! I'm Atharv, a driven computer science student who believes in turning ideas into reality through code. My journey began with curiosity and has evolved into a passion for creating intelligent systems that solve real-world problems.
+
+### 🌟 What Drives Me
+
+I'm fascinated by the intersection of **Artificial Intelligence** and **practical applications**. Whether it's building neural networks that can classify fruits with 300% accuracy improvement or integrating IoT devices with cloud systems, I love pushing the boundaries of what's possible.
+
+### 🎨 My Approach
+
+I don't just write code—I craft solutions. From participating in the **Smart India Hackathon** to boosting jersey sales by 30% through strategic marketing, I combine technical skills with business acumen to create meaningful impact.
+
+### 🔥 Currently Exploring
+
+- 🧠 Deep Learning architectures for computer vision
+- ⚡ Edge computing with ESP32 and cloud integration  
+- 🌐 Cross-platform application development
+- 📊 AI-driven business solutions
+
+*"I believe that the best developers are those who can bridge the gap between complex technology and simple, elegant solutions."*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -45,20 +111,22 @@ class AtharvKanase:
 
 </div>
 
-## 🛠️ Tech Stack
+## 💻 **Technical Arsenal**
 
 <div align="center">
 
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Core Languages & Web Technologies
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
 
-### Specializations
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### AI/ML & Hardware Integration
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<img src="https://img.shields.io/badge/CNN-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+### Development Environment & Design
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+<img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 
 </div>
 
@@ -87,17 +155,7 @@ python app.py
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=atharv-kanase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-kanase&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-kanase&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
 
 ## 🌟 Experience Highlights
 
